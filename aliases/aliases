@@ -39,7 +39,7 @@ alias lc='ls -CF --color=auto'
 # +---------+
 # | kubrctl |
 # +---------+
-alias kubectl='k'
+alias k='kubectl'
 alias now='--force --grace-period 0'
 alias drc='--dry-run=client -o yaml'
 alias drs='--dry-run=server -o yaml'
