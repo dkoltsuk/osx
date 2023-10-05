@@ -67,7 +67,7 @@ alias la='ls -alh'
 # | grep |
 # +------+
 
-alias grep="grep -P -i --color=auto"
+alias grep="grep -i --color=auto"
 
 # +------+
 # | xlip |
